@@ -1,0 +1,96 @@
+{
+  "email": "volley-capsule-pep@duck.com",
+  "cookies": [
+    {
+      "domain": ".facebook.com",
+      "httpOnly": false,
+      "name": "presence",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754272158329%2C%22v%22%3A1%7D"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1762048150,
+      "httpOnly": true,
+      "name": "fr",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "15pdiiFf1t63mTdNU.AWfbyPI93prJ1wCriq_wk7t4Htz1BA-LSA8Nmn5JZfck8q2NRvE.BokA2_..AAA.0.0.BokBGW.AWdsWJhse8wxuyHDI4AWSr4BFcc"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788746535,
+      "httpOnly": true,
+      "name": "ps_l",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745351,
+      "httpOnly": true,
+      "name": "datr",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "h76OaKT1qjcwE15KnE6_B802"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788746535,
+      "httpOnly": true,
+      "name": "ps_n",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745402,
+      "httpOnly": true,
+      "name": "sb",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "h76OaO1zO9mDWhjP1xlgUzrI"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1785807167,
+      "httpOnly": true,
+      "name": "xs",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "10%3AvRoD4mnJ2_lbBw%3A2%3A1754185397%3A-1%3A-1%3A%3AAcXA4JTZRihIkwlVYtqnrwaedRlisWkzCO2pJJMJPQ"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1785807167,
+      "httpOnly": false,
+      "name": "c_user",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "61578683570696"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1754876957,
+      "httpOnly": false,
+      "name": "wd",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1366x589"
+    }
+  ],
+  "url": "https://web.facebook.com/",
+  "timestamp": 1754272160.8397636
+}

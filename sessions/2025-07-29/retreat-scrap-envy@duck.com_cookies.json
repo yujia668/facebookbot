@@ -1,0 +1,76 @@
+{
+    "email": "retreat-scrap-envy@duck.com",
+    "cookies": [
+        {
+            "domain": ".facebook.com",
+            "httpOnly": false,
+            "name": "presence",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1753847096806%2C%22v%22%3A1%7D"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1761623092,
+            "httpOnly": true,
+            "name": "fr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "0dMtZbvFtstLokj24.AWeEBwdA5HWEliczdHWGcS3WQSDn0nifbhuKBTLfrwuRAuXKVcI.BoiZUl..AAA.0.0.BoiZU0.AWe1xQxA7uwiZBFz7XTd6CI_8XI"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1785383092,
+            "httpOnly": true,
+            "name": "xs",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "30%3AX83a8QJ19oXm-w%3A2%3A1753847088%3A-1%3A-1"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1785383092,
+            "httpOnly": false,
+            "name": "c_user",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "61577853374153"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1754451896,
+            "httpOnly": false,
+            "name": "wd",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1366x589"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788407092,
+            "httpOnly": true,
+            "name": "sb",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "JZWJaLomWYuhc1PDdHzSUM84"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788407077,
+            "httpOnly": true,
+            "name": "datr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "JZWJaBHkACdtwAtrRkf0DaK9"
+        }
+    ],
+    "url": "https://web.facebook.com/",
+    "timestamp": 1753847130.7371292
+}

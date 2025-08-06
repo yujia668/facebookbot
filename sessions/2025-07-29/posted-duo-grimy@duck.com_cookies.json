@@ -1,0 +1,86 @@
+{
+    "email": "posted-duo-grimy@duck.com",
+    "cookies": [
+        {
+            "domain": ".facebook.com",
+            "httpOnly": true,
+            "name": "checkpoint",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "%7B%22u%22%3A61577907370894%2C%22t%22%3A1753839362%2C%22step%22%3A0%2C%22n%22%3A%22FGX4Vax6d%5C%2FQ%3D%22%2C%22inst%22%3A122119720106930245%2C%22f%22%3A465803052217681%2C%22st%22%3A%22c%22%2C%22aid%22%3Anull%2C%22ca%22%3Anull%2C%22la%22%3A%22%22%2C%22ta%22%3A%221753839368.ch.s%3Apw.tDBEAiB3SlCknyIQ3qjTVI0jSeNFcTIWrKPeTrL_pzlXGaMwwgIgLv80Mg9WPWg5FA5qrvSrDeQgAqNZzkanqpfiFEsRzkc%22%2C%22tfvaid%22%3Anull%2C%22tfvasec%22%3Anull%2C%22sat%22%3Anull%2C%22idg%22%3Afalse%2C%22cidue%22%3A%22%22%2C%22tfuln%22%3Anull%2C%22tfvri%22%3Anull%2C%22ct%22%3A%22ARHovrZJckDIHrE1m7s7VsQ1vSVt7P28WUcwhppx_3yp9SUswDQZ2NZhV-EkZiyxICRXlP3YYWrFefWzMn4QEX2Oeg9Tdpr68M3foDLPgbN3F-IdWPpEN225GfWfMAygdlM9xj8RLbWWYkNEbEqSd_GDWFD48Jfctk7zbCgXLIbQNopbtkd7Q45UYNMYZoQA6gjwf2pBINDRM4ty2LT-Y_bGQ0tI3DR4dAam5oKinrn6pn6MKkBb9KJJa0u1nvXdhOyoVhoau5rSnxPvoH7M-Svp4f49LotbMy6nuZXuoYWehvQfjrWhRZPucdjEL7F4xyOy-Mx4SdVt3lSXQfzYxzuSYc8ZHj2DQkJ24uoHgISqEV4h6ujVzyvz9VmoTkMoaBzi7d4m1BilyGAb92O6m7ZHlg%22%2C%22s%22%3A%22AWVzbJzUzxBTImddTYc%22%2C%22cs%22%3A%5B%5D%2C%22ssp%22%3A1%7D"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1754444170,
+            "httpOnly": false,
+            "name": "wd",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1366x589"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399349,
+            "httpOnly": true,
+            "name": "ps_n",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "1"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399342,
+            "httpOnly": true,
+            "name": "sb",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "7naJaK_ny8IV5GFhYO8TWhLb"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399349,
+            "httpOnly": true,
+            "name": "ps_l",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1761615342,
+            "httpOnly": true,
+            "name": "fr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "0e5aZLPCZk56LnAX8..BoiXbu..AAA.0.0.BoiXbu.AWd1d0RleNbHKBirbuaU-8fXB4I"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1754444168,
+            "httpOnly": false,
+            "name": "locale",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "en_GB"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399342,
+            "httpOnly": true,
+            "name": "datr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "7naJaItSXlp3zyhVtzak5h5b"
+        }
+    ],
+    "url": "https://web.facebook.com/auth_platform/afad/?apc=Adn_TfZSb9H3GSHX5zV65ezYd96a2a3E4JGITx_k5iv51xKDF02sa3HtgY4Xyko34rLOPYh9OQfUwjldw58To8QZBXFenBO4y9QDRlYesSonqZ14ddzbNrRozUIOINLcfC5pWkxo7_RZdBMVsqrTnIEfBrui1NdBT86vc-mQsFvOIzByDxGhq8tCF9eLRNMQOH2ovaPRy7VPZ26beQHh8GO7uYJRD4qlgmGa259oTx6XKjP_6r8e_gxVY2BxQPsGg-sr16Cc9ZylV15HJqxXHPjIAoZWxLOP_eqpVvkGPSlszJ-SweD-W0e9J1ILAuB-f3ZAT3tLnmjCk2kfwMbIfdej_jo15FqbDtlZ4PO8JvCQ2ojs55q36AWW_nAZ5W6c1DcqMhnVg760gg5x-dycwvI_eRzeDOrpD2MLdiThXtoUFA-4gYpFvFvyb_Ah3OIjwybF_ja0FshTs_v3lNUYCXp_a2pERBy9lknGIsksa-5BY2Kw0otNMD04PivKmYt_42WtriEBpOEz58k4CBsWPNvPdz-I5bkZGN5RKUv9wppI4NUdjWDrjZWaPg8r1U00lqGDxOgTaQ4jnXGmk9YTfmblrvyhpYSS9xXa23cExIEkts59pbtZak_y65zu8Lqm2-MepYA16h_pS3pvzDn7YL0gA2KcDGH4qO8np6ENG-GM_SZuLZVQDlaZEp9glHd5I4_BwPSlzzYFp7mJkXB5IhTo7EaiGu_u70FzpNtGkNBqbJsBTBY8kUuymEaKJXKoVjch5mlOeenb9PypDPzUZ3Lkt5nEMkj2J1dZQgJHADO-omgFL3cXkRcgcsfdbxeAfWfvoTPMH2hfBqqauyNmsYblISzp5HBiJG5h9sfoJ5pYXsZ1VcJhxYyxZoPfYuuRd8S2MrMbZ64Qt3Yyj3AqZlLoRp28MlJoflf2tpGn5m45pnkpdIDptMMgVfo94I94Ffo1H6VxOCfBwLekGnLHNeJq3nZXIHsYba6dd8OMRtdC5q7B6_6FMNpS4JIogdZI36el454vd_eUArYO9a9LVLd3C1EhZ7RvE_ul6FnUTIL9lfvqSe18zREKJVV0VO90gt502TVvg2w8cbZgVrJsFtfsQQj6f4ZXNEogOosRPMMdKOWC0mkkHIy4vem71xVGkYlu5_dOoL0-5kPc7Tz2Tzju7CgAgi28i2wA_gPp9j7qke41Cv0vTc5I0tymSOKtaNEUStwh2J-zYgEBrJyqty1Yu9li59NtcQJ5poE7n1McIb7IyjqCeg35-QINDVr7NFBe0S0kVZ-V84xy3Dd1OFs_t-9NYPrYR_BiIkSeJuWfq_J7SQudcU-f2JRuSqASLKvyTjysMXkc0vbfQphGUd61TAmx51qA8TC7JHkDdn6tMNGhOJEjo2gRrEtru762q6H1peXfjolNzDApT4XhgGBjcnJDY4rjp9oIlEdGWappShcalXEFZPf6B_DHIYjbPh0haMZpgsoTi0gwXfSXF07yvSACOoEWvs788ZrkPHu86aaSp2Ib2Bo73fkuKPZuTMc2LOD_Qn-o6DCIfiuHxapSt_ZqLEfxwrl_8dqaeoZcdpdQMUrEt7hxj9mlmtFB7CT96IOZhZmfFEwOQSdr9D8lO8rGQ9O5EnSesFLAiLPNitpnY4byB_T_XUqJvhKIvfIUkiDBeOwlRO8jXVx5nv4%7Caplc",
+    "timestamp": 1753839371.3377914
+}

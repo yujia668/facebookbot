@@ -1,0 +1,47 @@
+{
+    "email": "juicy-dimmer-chunk@duck.com",
+    "cookies": [
+        {
+            "domain": ".facebook.com",
+            "expiry": 1754444180,
+            "httpOnly": false,
+            "name": "wd",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1366x589"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399376,
+            "httpOnly": true,
+            "name": "sb",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "D3eJaGiE79Uv_0dLzm2NMMpR"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1761615376,
+            "httpOnly": true,
+            "name": "fr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "0dHuB6sp9nUiKxi3Q..BoiXcP..AAA.0.0.BoiXcP.AWd9ezIvm3PC_ydQkHkoFjjI4t0"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788399376,
+            "httpOnly": true,
+            "name": "datr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "D3eJaD6TvzP1tpZ9PVlE7RmX"
+        }
+    ],
+    "url": "https://web.facebook.com/two_step_verification/authentication/?encrypted_context=AREY5olWwBETnY_whpiJMbbrxFxb6lnpJyCt9-QXIUBYdsialu9lGJtUjwKOoiCoAEurh-P23nfRWay39QdXFEd2tdxvCxbt6-N5XjOuC0_Yj_Y6JTR160qkFeJVtkTPPTtF18cW13_maNUt9BDfTs0H7zqqv5EYwid18flbPROoAAWyBEEcGjMqI6UaEMh6S_rfo9n-OTCsyPS9LeWTw4iyTKFHO2I82m2ms8nU5S474GQiRPbJwsOSgb0kfKTLrTuqSsVMFCXW5F6R38AHJ2CattYnakP-YbRLHOGfM6AE9r2wUA6YZMvrAz4s4TEqQ5i534PzCuwqHx1TPF2jhl1BUp_ar7RZRm39h4rLRJf0twIgQEl8GEocoAHJTE6zahJjFu75zHc5HQyHCE0dhDmdAfQYFfaQwRM4C2DpvMpwcjbQCTusx5sp4sGcK0XPSaM2Ae8hTRJfkgLcC5U4g8E8kcsnJV_lZFKaZ1tZ1FIQYcjqzZz2t9fMElmAGYIp0Bf82iuH8_EsNklFdo-B2cXda9-SbLpKXBhiU2Pd6XGQ221RRqol2bj5-gTnhDXSWXcyaeyZQlEtwkoyD5hNPdXBWmgOC3MXhmNDVbyWtJJ7V-ZyLVSaWI4smXI7QsLtjk6BuBDE43wG5ao87iQpmepAoWU3duf-WkyyGX9_MYYPCjirfLnV8h-2ZPms5PBMFqysheLviVSMzhqHA2SzeAyWjo0SoKTxCJhX41pUDiU6DGGCzQv0wKNG5IL9TOW38u0LLPRC_axDQwi8r8wxy-g3km8sox9Jpxrml_OgV_-1kK5TmMYC7S-biy6xlb9996A29INMJR7AvEXfPdyhVCesPF8jAi0kCJnGNxxalzEyXcGDTmrBZ1Zfy8WY31fnaqojnfz9RzxpEazYMzSJEb2UIHL9h4fbmDmAe4nzfua5pV-hFcmfmAdaTf5kBfMSraT-NvN8Ka1aSTD-sds2TVQMPuYa&flow=pre_authentication&next",
+    "timestamp": 1753839386.279246
+}

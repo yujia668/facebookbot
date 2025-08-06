@@ -1,0 +1,47 @@
+{
+    "email": "presoak-alias-ploy@duck.com",
+    "cookies": [
+        {
+            "domain": ".facebook.com",
+            "expiry": 1754442597,
+            "httpOnly": false,
+            "name": "wd",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "value": "1366x589"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788397796,
+            "httpOnly": true,
+            "name": "sb",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "5HCJaGlRPI_e-ZKWC3IP-V6B"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1761613796,
+            "httpOnly": true,
+            "name": "fr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "0VTVIWngzB0wBlCAo..BoiXDk..AAA.0.0.BoiXDk.AWcc_uCpr6EDjSVNGynIMxjm-ZQ"
+        },
+        {
+            "domain": ".facebook.com",
+            "expiry": 1788397796,
+            "httpOnly": true,
+            "name": "datr",
+            "path": "/",
+            "sameSite": "None",
+            "secure": true,
+            "value": "5HCJaNWPU7LVi7E6DgdBtP_9"
+        }
+    ],
+    "url": "https://web.facebook.com/two_step_verification/authentication/?encrypted_context=ARFFsI9RRImmD3wfT64fEe6EvtKLp4GAOjxIUNC65jyhYUv9sL1nRrmGZQKNGv_pOI2IhG41PJ4yWR1cEXU7w8zoMS4Ir1LLJ1U4CHl1-lJ-Ml7Jhqx4HUHMQlRlUVZaFaQsglEAo8medxGRcR0svkvxtefPhw_PgpCImoJPy1fVAEt-_UYe1dDNTQdXCdQLtydAELUVvCzy9L2-NvDSZgVqkvFhmjeqFcWzZQjh00Yl6TLVqcDg6fahbGMx21EJy9gYK0lCGv87ZTd0YPhvinKfgftvyeKzW_pIkZv0smqXTDejcl7BgodWC4acGIiOUijlbTbaChJcFHsZoJuJvyFXVtXX-iJ8QIP4SJeuR1cVVC-1tHd1AOBrE3Zicsnh2Y2Sqb2nGiPIMEe0CXGMalZwKqpPc-ZOxI7oo7FVGshNVT0g_Rp0q5hHcWSZRww7V8DEyChwn8lFiIr-RWDLY6mx-pyK6KK10LyB_HR5R9-w6a0lbtDKOJcwL9CrQBqXJJnp11khrPiBvuLF-Y6Iq06iFuRwqCrAT6vIARrWebo-zJ_d5W0iySJhAayxFaHuPU4LKZugRCShF5dzqG7CZ5xaXkDqB0JyhEdZRBg0k7FC0wAw9lt900gLrTK-VRo3euOBoChKgHb6TiVu-Ppoit4lsRoSjKqY8qkZfRYU5gq_R-huDvrs25_a7sfCcp9NQm3Ek7_hwJRfL7StZbbU1T0BoAS8AOg-kIgzKrcETF9vyeNK05ihkWYmHyysMoGHkz7V_7o4GeMmIAnDUOD5VwjoE9B6wEg50IHU0wRMNJgeIm988BArrs8djE3QiyARnoSlf20YnZaGPo3OH71tunF1XckFfH-DyPxXHaTGVf6URCD2I0Jr7OdMV5-AO5BynzqU_6Bcb9vSiWrTflTVj-L1wJW0Jbc6Hqr6ykR_zWavbGrGCBU2aVBBpzbhnUgZBUDQzfNa_tAy2KuNd4RE_nfk-aN8WgqHPebY3atf&flow=pre_authentication&next",
+    "timestamp": 1753837804.031154
+}

@@ -1,0 +1,94 @@
+{
+  "email": "anatomy-cake-dolly@duck.com",
+  "cookies": [
+    {
+      "domain": ".facebook.com",
+      "httpOnly": false,
+      "name": "presence",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754221203400%2C%22v%22%3A1%7D"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1761997178,
+      "httpOnly": true,
+      "name": "fr",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "1espNFErklAzgoX5h.AWdr4FvQypSb7VYlsBuanck1fedtocI_wzcgOkZ9p7EPxMpMiiQ.Boj0TO..AAA.0.0.Boj0p5.AWfmZuO0_qhcCY9e7hcFRUyjp-Y"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1785755728,
+      "httpOnly": true,
+      "name": "xs",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "10%3AcG05wObE9JIf0A%3A2%3A1754185255%3A-1%3A-1%3A%3AAcVZ0Wg0fRTWqbuBxjvqWxwiqivHzFBzp13F2wseQg"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745232,
+      "httpOnly": true,
+      "name": "datr",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "EL6OaJw6dpOMcll1ipWhXqUm"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1785755728,
+      "httpOnly": false,
+      "name": "c_user",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "61578206767609"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1754826003,
+      "httpOnly": false,
+      "name": "wd",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1366x589"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745258,
+      "httpOnly": true,
+      "name": "sb",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "EL6OaL517TKIbH29kUT6EEQx"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745239,
+      "httpOnly": true,
+      "name": "ps_n",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1"
+    },
+    {
+      "domain": ".facebook.com",
+      "expiry": 1788745239,
+      "httpOnly": true,
+      "name": "ps_l",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1"
+    }
+  ]
+}

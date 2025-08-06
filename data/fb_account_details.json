@@ -1,0 +1,132 @@
+[
+  {
+    "email": "volley-capsule-pep@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754422845427%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1762198833, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"1iyfaKCEgQbKnFYPl.AWcHQrBrdSb-rjdJ82OqiEIAU7Es_U1FxOsecODSpTN7EJfKUOc.BoklYl..AAA.0.0.Bokl4x.AWfzNT6Ai6bd81_bzI5lyfRlpjo\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746535, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746535, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745402, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"h76OaO1zO9mDWhjP1xlgUzrI\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745351, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"h76OaKT1qjcwE15KnE6_B802\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785956776, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"10%3AvRoD4mnJ2_lbBw%3A2%3A1754185397%3A-1%3A-1%3A%3AAcW7pdjPMGf3Ny-27OuKwA87ayBVJwKLzfgjeXo3LQ\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785956776, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"61578683570696\"}, {\"domain\": \".facebook.com\", \"expiry\": 1755027645, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "hull-storm-tracing@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754186706339%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1761962702, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"0vkilCd9E2BE5pFs8.AWeIA5czgY_LkCu9jeCYeBftXAd-KBktTJOVhxTQW0Ahque0wu0.Bojr7I..AAA.0.0.BojsPO.AWetC7EOCkBWNkYGLuZAIB5ic_k\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785721432, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"28%3ADHTaze666XG-FA%3A2%3A1754185428%3A-1%3A-1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745417, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745432, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"yL6OaH9mgEwXYxzRO3GPsmHX\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745417, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745416, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"yL6OaJccveMgNWw-IYuAJm7y\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785721432, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"61578100932723\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754791506, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "thrill-worry-strep@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"expiry\": 1785808202, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"29%3AajHsS3UscS_GyQ%3A2%3A1754185487%3A-1%3A-1%3A%3AAcXJ7GxeOgLRgUou6p21QaIku-iueAjrT1_PnkEi6A\"}, {\"domain\": \".facebook.com\", \"expiry\": 1762048202, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"13nhq10mO3cMR2JBS.AWdeFxE_iEtwFrA-zvimoda7iCxgs3pVjSJCr6Po_EsBeOgZLGA.BokBHJ..AAA.0.0.BokBHJ.AWfAWdrqSjrVLzxpxEM2Yz_zyRI\"}, {\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754272201525%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745475, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"A7-OaBFr1r0TZgH4psOuHcES\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746717, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745490, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"A7-OaEZy5gKmGrICuJf33CJ2\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754877001, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785808202, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578625912669\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746717, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "womb-reentry-crier@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"expiry\": 1785761552, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"30%3AF_EBEN_NSXbNjQ%3A2%3A1754185679%3A-1%3A-1%3A%3AAcVxY90KU_AewAwnG3oMTGmcbenmkhU9PIZimp33UA\"}, {\"domain\": \".facebook.com\", \"expiry\": 1762001552, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"1eC22GbYanE1wieQP.AWf-M0Rj-oz_aIFsaM3VVeTysKzte3VMXW8tHXP3RkaJ_jDGPYs.Boj1uQ..AAA.0.0.Boj1uQ.AWddUSf3WH4UEEYU-hNLH-0P5uA\"}, {\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754225530004%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745535, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"Pr-OaFKGTrUjnEO4zGXJz1e2\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745682, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"Pr-OaBIoRwTKHzs6yLVS798E\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785761552, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578293523649\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754830329, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "task-tasting-gong@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"expiry\": 1785761657, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"9%3AN6fEf5e7Ywbcsw%3A2%3A1754185739%3A-1%3A-1%3A%3AAcWPcd2EdskFR4x2dxGyT5PcZA2okFsODjWi5nQcJQ\"}, {\"domain\": \".facebook.com\", \"expiry\": 1762001657, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"1fobFJHsGSBwXC37M.AWfsY6p1yrPCJtEttKBuJ5Ju_Fz0ZI-YxLCZyJp4d8kV5E9NwcM.Boj1v1..AAA.0.0.Boj1v1.AWdaVBbjMgb-rBEZVQP2B16fQv8\"}, {\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754225653728%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745697, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"4b-OaK6ZZrER5_ZuZe-6zqDi\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785761657, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578178719348\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754830452, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745743, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"4b-OaBTxd9DHeOSHVxfnOgLT\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745744, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745744, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "ladylike-okay-sage@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"expiry\": 1785761754, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"25%3Aq97qOEVlzzMQLg%3A2%3A1754185769%3A-1%3A-1%3A%3AAcXnByQSyuaf-k98RowCDKOp5ZOvALSj8Wob9SWrLw\"}, {\"domain\": \".facebook.com\", \"expiry\": 1762001754, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"1jiUMGNFdcZln0dh7.AWdYBlEOx4lBjxwxNPPoa--SV6QaYu3BPXQ231UllR6bOicSe5s.Boj1xZ..AAA.0.0.Boj1xZ.AWfnyI2ByEvdClCcwu6399lEgMI\"}, {\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754225753574%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746607, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745772, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"HcCOaOxCFGwvg-gNTRlN2az0\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745757, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"HcCOaH0Vt3r5iolM9Tot9pOO\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746607, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785761754, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578631162358\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754830545, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "voucher-army-comfy@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754186626779%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1761962621, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"0J1xHJJuqGmQNZw3p.AWeAZXGFCguJOpbvjOb_l59KJrjfrmTYwL-qnn4CJeu-8ipjyHs.BojsBZ..AAA.0.0.BojsN9.AWemjq1tzb9aCTM9A9cq-7TUP4E\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745817, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"WcCOaHX8O5Re044ulM3LOYRv\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745832, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"WcCOaDXNAYc8Lzpu7WDV-z9S\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754791425, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785721832, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"61578260015270\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785721832, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"3%3AoGrqYyPWzNAnuQ%3A2%3A1754185829%3A-1%3A-1\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "dayroom-suing-ream@duck.com",
+    "password": "Man1234",
+    "cookies": "",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "shindig-fedora-jet@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754186025910%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1761962021, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"0OrrwJI0eZFQUOVgo.AWcdMfQMq2JD5XSLfy_kpHi0OrfrME6xCKpCmLCG4TM0ogHOjGk.BojsDT..AAA.0.0.BojsEk.AWfe4CEOH6K2B3DQu3hX4Xj_8VM\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722020, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"45%3Apd9Knk8HusH9rg%3A2%3A1754186016%3A-1%3A-1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722020, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578304083033\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754790825, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746020, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"08COaC_0WO6LcOtM-icgq3Wd\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788745939, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"08COaOWa99Ci7TnHGbx7hTMq\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "swell-moving-goon@duck.com",
+    "password": "Man1234",
+    "cookies": "",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "cake-violin-owl@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754186145477%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1761962141, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"0AWmXS4LwwhMUHtJw.AWdm_0sCveipEYhgSl4A9FA56Au1lxn_MMgke9IcaDJfmEXzGj0.BojsFw..AAA.0.0.BojsGc.AWedsz2g_h4S4zyZAsmXU6TleMU\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722140, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"38%3A5yAqdgRIqfKRtQ%3A2%3A1754186136%3A-1%3A-1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722140, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578162490450\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754790945, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746140, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"cMGOaMMHkMmyZlxNzBZgSZHl\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746096, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"cMGOaMpDOGy0Vp123Jn8mo-b\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "rare-backlog-hurry@duck.com",
+    "password": "Man1234",
+    "cookies": "",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  },
+  {
+    "email": "cartel-frisk-spent@duck.com",
+    "password": "Man1234",
+    "cookies": "[{\"domain\": \".facebook.com\", \"httpOnly\": false, \"name\": \"presence\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1754186239268%2C%22v%22%3A1%7D\"}, {\"domain\": \".facebook.com\", \"expiry\": 1761962235, \"httpOnly\": true, \"name\": \"fr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"0lsX9H1eXb81Y2hqr.AWc_r07m68ZYHXKe3XRxxZ7TTePnnhlW1xdAIATcg0mkHaCNTWg.BojsHq..AAA.0.0.BojsH7.AWdT1lUG0sz5X3HEvmoODy84nUM\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722235, \"httpOnly\": true, \"name\": \"xs\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"27%3AKjRetkkOAQMimQ%3A2%3A1754186231%3A-1%3A-1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746224, \"httpOnly\": true, \"name\": \"ps_l\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746235, \"httpOnly\": true, \"name\": \"sb\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"6sGOaKNS1V6mhyL81hYLPMuy\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746224, \"httpOnly\": true, \"name\": \"ps_n\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"1\"}, {\"domain\": \".facebook.com\", \"expiry\": 1785722235, \"httpOnly\": false, \"name\": \"c_user\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"61578286683902\"}, {\"domain\": \".facebook.com\", \"expiry\": 1754791039, \"httpOnly\": false, \"name\": \"wd\", \"path\": \"/\", \"sameSite\": \"Lax\", \"secure\": true, \"value\": \"1366x589\"}, {\"domain\": \".facebook.com\", \"expiry\": 1788746218, \"httpOnly\": true, \"name\": \"datr\", \"path\": \"/\", \"sameSite\": \"None\", \"secure\": true, \"value\": \"6sGOaEzb_ndF10QS94tJR5md\"}]",
+    "2fa": "",
+    "token": "",
+    "uid": "",
+    "mild": "",
+    "proxy": ""
+  }
+]
